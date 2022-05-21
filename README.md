@@ -6,12 +6,12 @@ The dataset includes 42,000 reviews of 3 Disneyland branches - Paris, California
  
 Column Description:
 
-1. **Review_ID**: unique id given to each review
-2. **Rating**: ranging from 1 (unsatisfied) to 5 (satisfied)
-3. **Year_Month**: when the reviewer visited the theme park
-4. **Reviewer_Location**: country of origin of visitor
-5. **Review_Text**: comments made by visitor
-6. **Disneyland_Branch**: location of Disneyland Park
+- **Review_ID**: unique id given to each review
+- **Rating**: ranging from 1 (unsatisfied) to 5 (satisfied)
+- **Year_Month**: when the reviewer visited the theme park
+- **Reviewer_Location**: country of origin of visitor
+- **Review_Text**: comments made by visitor
+- **Disneyland_Branch**: location of Disneyland Park
 
 The dataset was downloaded from Kaggle and is availabele on this link: https://www.kaggle.com/datasets/arushchillar/disneyland-reviews
 
